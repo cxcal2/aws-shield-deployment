@@ -69,4 +69,4 @@ terraform destroy
 ```
 
 Note: Shield subscription has `skip_destroy = true` to prevent accidental cancellation.
-# aws-shield-enablement
+# aws-shield-deployment
