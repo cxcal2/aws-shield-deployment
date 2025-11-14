@@ -1,6 +1,6 @@
 # AWS Web Application with AWS Shield Protection
 
-Terraform configuration for a multi-account AWS infrastructure with DDoS protection using AWS Shield.
+Terraform configuration for that secures a web application in a multi-account AWS organization with DDoS protection using AWS Shield.
 
 ## Architecture
 
